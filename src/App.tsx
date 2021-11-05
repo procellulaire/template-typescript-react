@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './patofoiling.svg';
 import './App.css';
 
 function App() {
@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          AQUA Metaverse mvp.alpha.react.celonft.mvp.v.0.20211105 Draft
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="./Index-Appcelo.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         CELO Ecosystem Integration
         </a>
       </header>
     </div>
